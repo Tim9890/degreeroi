@@ -16,5 +16,5 @@ Navigate to http://localhost:3000 in your web browser to access the app.
 
 
 NOTE
-This is currently an MVP that is pushed futhur degrees and features will be added in the future.
+This is currently an MVP that is pushed further degrees and features will be added in the future.
 

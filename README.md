@@ -1,6 +1,6 @@
-Degre ROI App
+Degree ROI App
 Overview
-The Degre ROI (Return on Investment) app is a powerful tool designed to help users calculate and analyze the potential return on investment for various educational programs and degrees. By providing comprehensive data analysis and visualization, this app empowers students, educators, and institutions to make informed decisions about educational investments.
+The Degree ROI (Return on Investment) app is a powerful tool designed to help users calculate and analyze the potential return on investment for various educational programs and degrees. By providing comprehensive data analysis and visualization, this app empowers students, educators, and institutions to make informed decisions about educational investments.
 
 Installation
 

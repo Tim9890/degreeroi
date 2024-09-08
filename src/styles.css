@@ -1,0 +1,46 @@
+/* src/styles.css */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #e67e22;
+    --background-color: #f0f4f8;
+    --text-color: #2c3e50;
+    --light-text-color: #7f8c8d;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: var(--primary-color);
+}
+
+button {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}

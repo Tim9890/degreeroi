@@ -17,5 +17,5 @@ Navigate to http://localhost:3000 in your web browser to access the app.
 
 
 NOTE
-This is currently an MVP that is pushed further degrees and features will be added in the future.
+This is currently an MVP that is pushed further degrees and features will be added in the future. This App will also start with the current degrees offered by my current institution and then expand from there. 
 
